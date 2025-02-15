@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.14">
+  <diagram name="Página-1" id="MaTF1T1sY_mGEVAadmvG">
+    <mxGraphModel dx="1062" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#D4E1F5" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-60" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=146.79;arrowHead=10;strokeColor=#A50040;fontColor=#ffffff;fillColor=#d80073;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="584.0699999999999" y="187.62" width="171.87" height="140.48" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-3" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Aplicacion Web&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#647687;strokeColor=#314354;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon17;fontColor=#67AB9F;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="150" height="120.62" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-4" value="&lt;span&gt;Pc&amp;nbsp; de escritorio&lt;/span&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon15;fontColor=#333333;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="62.18999999999999" width="150" height="76.25" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-6" value="Alojada en&amp;nbsp;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=17;notch=10.5;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="220" y="85.32" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-1" value="Servidor Local" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon7;labelBorderColor=none;fontColor=#0A0A0A;labelBackgroundColor=none;textShadow=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="117.07" y="258" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-8" value="Funciones" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#a20025;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="600" y="50" width="140" height="120" as="geometry">
+            <mxRectangle x="620" y="40" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-10" value="Todo el sistema esta aquí&lt;br&gt;Siempre conectada a la red local.&lt;br&gt;Siempre debe estar encendida&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#1A1A1A;" vertex="1" parent="DHwrLhlfyTZZfubbxJ3x-8">
+          <mxGeometry y="26" width="140" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-12" value="DB" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon7;fontColor=#0A0A0A;" vertex="1" parent="1">
+          <mxGeometry x="615" y="208" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-13" value="App" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon17;fontColor=#050505;" vertex="1" parent="1">
+          <mxGeometry x="675" y="209.43" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-15" value="Deudores" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;fontColor=#050505;" vertex="1" parent="1">
+          <mxGeometry x="616" y="283" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-19" value="Accesos" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon29;fontColor=#080808;" vertex="1" parent="1">
+          <mxGeometry x="675" y="281" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-20" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon16;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70.01" width="40" height="45.31" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-22" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.icon28;" vertex="1" parent="1">
+          <mxGeometry x="137.07" y="350" width="50" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-23" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon32;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="50" height="28.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-24" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon30;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="310" y="442.25" width="50" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-25" value="Cable" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon33;fontColor=#050505;" vertex="1" parent="1">
+          <mxGeometry x="487.57" y="420" width="50" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-29" value="Celular" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon9;fontColor=#000000;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="39" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-30" value="PC" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon15;fontColor=#0F0F0F;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560.5" width="70" height="49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-31" value="Laptop" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="70" height="48.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-39" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon17;fontColor=#EEEEEE;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="249.75" y="561.25" width="19.5" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-40" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon17;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="399" y="569.25" width="30" height="20.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-41" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon17;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="542.4999999999999" y="567" width="25" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-44" value="Funciona como" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.43;dx=37;flipH=1;notch=0;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="207.07" y="181.93" width="160.43" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-45" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#0B4D6A;exitX=1.033;exitY=0.657;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.493;entryY=-0.107;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DHwrLhlfyTZZfubbxJ3x-1" target="DHwrLhlfyTZZfubbxJ3x-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-46" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#0B4D6A;exitX=1.033;exitY=0.657;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="207.07" y="327.5" as="sourcePoint" />
+            <mxPoint x="510" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-48" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon21;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="285" y="550" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-49" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon21;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="462.57" y="549.25" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-50" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon21;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="590" y="549.25" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-51" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon33;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="463.79" y="577.75" width="22.57" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-52" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon33;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="591.22" y="577.75" width="22.57" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#0B4D6A;entryX=0.527;entryY=1.096;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DHwrLhlfyTZZfubbxJ3x-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="303" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#0B4D6A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="540" as="sourcePoint" />
+            <mxPoint x="350" y="480" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-55" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#0B4D6A;exitX=0.4;exitY=0.037;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.993;entryY=0.862;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DHwrLhlfyTZZfubbxJ3x-50" target="DHwrLhlfyTZZfubbxJ3x-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="582.5699999999999" y="549.25" as="sourcePoint" />
+            <mxPoint x="462.57" y="489.25" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#0B4D6A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="590" as="sourcePoint" />
+            <mxPoint x="510" y="480" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-57" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#0B4D6A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="580" as="sourcePoint" />
+            <mxPoint x="530" y="480" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DHwrLhlfyTZZfubbxJ3x-59" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=50;stepSize=15;rounded=0;strokeColor=#0B4D6A;entryX=0.992;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.026;exitY=0.277;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DHwrLhlfyTZZfubbxJ3x-10" target="DHwrLhlfyTZZfubbxJ3x-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="442.5" y="260.62" as="sourcePoint" />
+            <mxPoint x="542.5" y="160.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
